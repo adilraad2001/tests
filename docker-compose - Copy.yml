@@ -5,7 +5,7 @@ services:
     environment:
       - OPENCTI_URL=http://opencti:8080
       - OPENCTI_TOKEN=${OPENCTI_ADMIN_TOKEN}
-      - CONNECTOR_ID=UX1hyci2rmG0kZXFzAzQ6I1u1ZwGVPcz5AkPIsBt
+      - CONNECTOR_ID=74689a0a-6ccb-47fe-931a-256cabe804a9
       - CONNECTOR_TYPE=EXTERNAL_IMPORT
       - CONNECTOR_NAME=MISP
       - CONNECTOR_SCOPE=misp
